@@ -22,7 +22,7 @@ terraform {
   backend atlas {
     name = "rustyross/training"
   }
-}
+}}}}}
 
 variable "aws_access_key" {}
 variable "aws_secret_key" {}
